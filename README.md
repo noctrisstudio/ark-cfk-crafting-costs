@@ -1,7 +1,7 @@
-# ark-cfk-crafting-costs
+# ark-ckf-crafting-costs
 Change crafting costs for ARK CFK Mod
 
-This file changed all crafting costs for the CFK Remastered mod: https://steamcommunity.com/sharedfiles/filedetails/?id=1814953878
+This file changed all crafting costs for the CKF Remastered mod: https://steamcommunity.com/sharedfiles/filedetails/?id=1814953878
 
 The prices for everything is set to:
 - 10 stone
