@@ -1,5 +1,5 @@
 # ark-ckf-crafting-costs
-Change crafting costs for ARK CFK Mod
+Change crafting costs for ARK CKF Mod
 
 This file changed all crafting costs for the CKF Remastered mod: https://steamcommunity.com/sharedfiles/filedetails/?id=1814953878
 
